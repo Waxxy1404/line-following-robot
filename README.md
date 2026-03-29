@@ -107,14 +107,14 @@ pip install numpy opencv-python pillow
 
 2. Load the simulation scene:
    - Go to **File → Open Scene**
-   - Select `scenes/line_following.ttt`
+   - Select `scenes/Line_circuit.ttt`
 
 3. Start the simulation by clicking ▶️ in CoppeliaSim
 
 4. Run the Python script in a separate terminal:
 
 ```bash
-python Projeto_0_victor.py
+python Control_code.py
 ```
 
 5. A window labeled `CAMERA DO ROBO SIMULADO` will open showing the robot's live camera feed
@@ -127,7 +127,7 @@ python Projeto_0_victor.py
 
 ```
 line-following-robot/
-├── Projeto_0_victor.py     # Main control script
+├── Control_code.py         # Main control script
 ├── sim.py                  # CoppeliaSim Remote API
 ├── simConst.py             # CoppeliaSim constants
 ├── remoteApi.dll           # Remote API library (Windows)
