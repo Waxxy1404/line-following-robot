@@ -146,7 +146,7 @@ This project was developed as part of a **Digital Processing of Images** course 
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
 
 ---
 
